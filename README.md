@@ -1,4 +1,4 @@
-## Hi, I'm Chase 👋
+## Hi, I'm Chase Foster! 👋
 
 I'm from Knoxville, Tennessee, and I'm a student in the Master's of Information and Data Science (MIDS) program at UC Berkeley. I'm interested in machine learning, statistical modeling, and experimental design, and I'm passionate about using data to solve real-world problems. I'm continuously expanding my technical skills through coursework and independent projects.
 
