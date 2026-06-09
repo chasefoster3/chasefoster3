@@ -1,16 +1,66 @@
-## Hi there 👋
+## Hi, I'm Chase 👋
 
-<!--
-**chasefoster3/chasefoster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Data Science with interests in machine learning, statistical modeling, and experimental design. I'm passionate about using data to solve real-world problems and continuously expanding my technical skills through coursework and independent projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+**Master of Science in Data Science**
+(Expected Graduation: XXXX)
+
+Relevant coursework:
+- Machine Learning
+- Statistical Modeling
+- Experimental Design
+- Data Visualization
+- Database Systems
+- Data Engineering
+
+---
+
+## 💻 Technical Skills
+
+### Languages
+- Python
+- R
+- SQL
+
+### Libraries & Frameworks
+- pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- ggplot2
+- tidyverse
+
+### Tools
+- Git
+- GitHub
+- Jupyter Notebook
+- RStudio
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 📈 Housing Price Prediction
+...
+
+### 🧠 Customer Churn Prediction
+...
+
+### 📊 Data Visualization Dashboard
+...
+
+### 🧪 Experimental Design & Power Analysis
+...
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *(add your LinkedIn URL)*
+- Email: chasefoster319@gmail.com
