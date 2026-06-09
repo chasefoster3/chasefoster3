@@ -7,7 +7,7 @@ I'm from Knoxville, Tennessee, and I'm a student in the Master's of Information 
 
 ## 🎓 Education
 
-**Master of Science in Data Science**
+**Master of Information and Data Science**
 (Expected Graduation: May 2027)
 
 Relevant coursework:
