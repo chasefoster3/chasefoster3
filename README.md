@@ -8,7 +8,7 @@ I'm a Master's student in Data Science with interests in machine learning, stati
 ## 🎓 Education
 
 **Master of Science in Data Science**
-(Expected Graduation: XXXX)
+(Expected Graduation: May 2027)
 
 Relevant coursework:
 - Machine Learning
