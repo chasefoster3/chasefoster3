@@ -26,6 +26,7 @@ Relevant coursework:
 - Python
 - R
 - SQL
+- Linux
 
 ### Libraries & Frameworks
 - pandas
@@ -46,21 +47,23 @@ Relevant coursework:
 
 ## 📂 Featured Projects
 
-### 📈 Housing Price Prediction
+### 🧪 (Artificial Intelligence Consistency Experiment)
 ...
 
-### 🧠 Customer Churn Prediction
+### ⚾ (Predicting World Series / Playoff Berths)
 ...
 
-### 📊 Data Visualization Dashboard
+### ⚽ (World Cup Predictor)
 ...
 
-### 🧪 Experimental Design & Power Analysis
+### 🏈 (NFL Exploratory Data Analysis of Sports Betting)
 ...
+
+### 📊 (Amazon Product Graphing)
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add your LinkedIn URL)*
+- LinkedIn: https://www.linkedin.com/in/chasestephenfoster
 - Email: chasefoster319@gmail.com
