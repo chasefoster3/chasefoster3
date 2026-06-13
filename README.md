@@ -52,6 +52,7 @@ In Progress...
 
 ### ⚾ MLB Postseason Analysis & Prediction
 Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
+
 https://github.com/chasefoster3/mlb-postseason-prediction
 
 ### ⚽ (World Cup Predictor)
