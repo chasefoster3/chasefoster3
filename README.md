@@ -47,18 +47,18 @@ Relevant coursework:
 
 ## 📂 Featured Projects
 
-- [🧪 (Artificial Intelligence Consistency Experiment)]
+🧪 [(Artificial Intelligence Consistency Experiment)]
 In Progress...
 
-- [⚾ MLB Postseason Analysis & Prediction](https://github.com/chasefoster3/mlb-postseason-prediction): Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
+⚾ [MLB Postseason Analysis & Prediction](https://github.com/chasefoster3/mlb-postseason-prediction): Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
 
-- [⚽ (World Cup Predictor)]
+⚽ [(World Cup Predictor)]
 ...
 
-- [🏈 (NFL Exploratory Data Analysis of Sports Betting)]
+🏈 [(NFL Exploratory Data Analysis of Sports Betting)]
 ...
 
-- [📊 (Amazon Product Graphing)]
+📊 [(Amazon Product Graphing)]
 ...
 
 ---
