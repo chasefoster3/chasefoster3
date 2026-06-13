@@ -50,7 +50,7 @@ Relevant coursework:
 ### 🧪 (Artificial Intelligence Consistency Experiment)
 In Progress...
 
-### ⚾ Predicting MLB Postseason Qualification Using ML
+### ⚾ MLB Postseason Analysis & Prediction
 Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
 https://github.com/chasefoster3/mlb-postseason-prediction
 
