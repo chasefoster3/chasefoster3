@@ -50,8 +50,10 @@ Relevant coursework:
 ### 🧪 (Artificial Intelligence Consistency Experiment)
 In Progress...
 
-### ⚾ (Predicting World Series / Playoff Berths)
-...
+### ⚾ Predicting MLB Postseason Qualification Using ML
+https://github.com/chasefoster3/mlb-postseason-prediction
+
+Description: Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
 
 ### ⚽ (World Cup Predictor)
 ...
