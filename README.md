@@ -52,8 +52,7 @@ In Progress...
 
 ⚾ [MLB Postseason Analysis & Prediction](https://github.com/chasefoster3/mlb-postseason-prediction): Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
 
-⚽ [(World Cup Predictor)]
-...
+⚽ [2026 World Cup Predictor](https://github.com/chasefoster3/world-cup-predictor): Team machine learning project predicting 2026 FIFA World Cup match outcomes using historical international match data and FIFA rankings.
 
 🏈 [Exploratory Data Analysis of NFL Officiating Patterns](https://github.com/chasefoster3/nfl-officiating-analysis): Team exploratory data analysis examining NFL officiating patterns before and after the rise of legalized sports betting (2015–2024).
 
