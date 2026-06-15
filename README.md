@@ -47,8 +47,7 @@ Relevant coursework:
 
 ## 📂 Featured Projects
 
-🧪 [(Artificial Intelligence Consistency Experiment)]
-In Progress...
+🧪 [(Artificial Intelligence Consistency Experiment)](...): In Progress...
 
 ⚾ [MLB Postseason Analysis & Prediction](https://github.com/chasefoster3/mlb-postseason-prediction): Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
 
@@ -56,8 +55,7 @@ In Progress...
 
 🏈 [Exploratory Data Analysis of NFL Officiating Patterns](https://github.com/chasefoster3/nfl-officiating-analysis): Team exploratory data analysis examining NFL officiating patterns before and after the rise of legalized sports betting (2015–2024).
 
-📊 [(Amazon Product Graphing)]
-...
+📊 [E-commerce Graph Analytics](https://github.com/chasefoster3/ecommerce-graph-analytics): Team project using graph databases and graph algorithms to analyze Amazon product relationships for recommendation systems and cross-selling opportunities.
 
 ---
 
