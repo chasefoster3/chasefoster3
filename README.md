@@ -47,7 +47,7 @@ Relevant coursework:
 
 ## 📂 Featured Projects
 
-🧪 [(Artificial Intelligence Consistency Experiment)](...): In Progress...
+🧪 [Artificial Intelligence Consistency Experiment](https://github.com/chasefoster3/ai-consistency-experiment): An experimental study investigating whether consistency-focused prompting affects the consistency of repeated large language model responses.
 
 ⚾ [MLB Postseason Analysis & Prediction](https://github.com/chasefoster3/mlb-postseason-prediction): Honors thesis applying machine learning to identify the factors that contribute to Major League Baseball postseason qualification.
 
